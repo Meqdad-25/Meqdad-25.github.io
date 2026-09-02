@@ -1,0 +1,15 @@
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local servers / dependencies (not needed for this site, but harmless)
+node_modules/
+.cache/
+*.log
